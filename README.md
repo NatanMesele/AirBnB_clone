@@ -60,8 +60,13 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 All the code is tested with the unittest module. The test for the classes are inthe`test_models folder`.
 ## Authors
+<<<<<<< HEAD
 * Natan Mesele - [Natan](https://github.com/Nattyleoalpha)
 * Ayomide Johnson - [Ayomide](https://github.com/Ayomide)
  
+=======
+* Natan Mesele Mulat - [Natan](https://github.com/Nattyleoalpha)
+* Ayomide Johnson Salami - [Ayomide](https://github.com/Royalboe)
+>>>>>>> 633912e5c4962e4f59edeabe2e801b2de7825610
  
  
