@@ -185,6 +185,7 @@ class TestAmenity_to_dict(unittest.TestCase):
         with self.assertRaises(TypeError):
             am.to_dict(None)
 
+            
 
 if __name__ == "__main__":
     unittest.main()
